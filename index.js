@@ -6,22 +6,41 @@ export const HelyxPFResources ={
 
     "Dog, Black Companion" : { "img":"companions/black-dog_001.actor.webp", "token":"companions/black-dog_001.token.webp"},
 
+    "BESTIARIES, ABERRATIONS" : "*******************************************************************************************************",
+
+    "Choker" : { "img":"bestiaries/aberrations/choker_001.actor.webp", "token":"bestiaries/aberrations/choker_001.token.webp"},       
+
+    "Squirming Swill" : { "img":"bestiaries/aberrations/squirming-swill_001.actor.webp", "token":"bestiaries/aberrations/squirming-swill_001.token.webp"},       
+
     "BESTIARIES ANIMALS" : "*********************************************************************************************",   
     
     "Beetle, Flash" : { "img":"bestiaries/animals/flash-beetle_001.actor.webp", "token":"bestiaries/animals/flash-beetle_001.token.webp"},
     "Beetle, Giant Stag" : { "img":"bestiaries/animals/giant-stag-beetle_001.actor.webp", "token":"bestiaries/animals/giant-stag-beetle-beetle_001.token.webp"},    
-
     "Bloodseeker" : { "img":"bestiaries/animals/bloodseeker_001.actor.webp", "token":"bestiaries/animals/bloodseeker_001.token.webp"},
+
+    "Crocodile" : { "img":"bestiaries/animals/crocodile_001.actor.webp", "token":"bestiaries/animals/crocodile_001.token.webp"},
+
+    "Frog, Giant" : { "img":"bestiaries/animals/giant-frog_001.actor.webp", "token":"bestiaries/animals/giant-frog_001.token.webp"},    
 
     "Lizard, Shocker": { "img":"bestiaries/animals/shocker-lizard_001.actor.webp", "token":"bestiaries/animals/shocker-lizard_001.token.webp"},
 
+    "Mice" : { "img":"bestiaries/animals/mice_001.actor.webp", "token":"bestiaries/animals/mice_001.token.webp"},    
+
     "Rat, Giant" : { "img":"bestiaries/animals/giant-rat_001.actor.webp", "token":"bestiaries/animals/giant-rat_001.token.webp"},    
 
-    "Snake, Giant Moorsnake" : { "img":"bestiaries/animals/giant-moorsnake_001.actor.webp", "token":"bestiaries/animals/giant-moorsnake_001.token.webp"},
+    "Slurk" : { "img":"bestiaries/animals/slurk_001.actor.webp", "token":"bestiaries/animals/slurk_001.token.webp"},    
+
+    "Snake, Giant Moorsnake" : { "img":"bestiaries/animals/giant-moorsnake_001.actor.webp", "token":"bestiaries/animals/giant-moorsnake_001.token.webp"},    
 
     "Spider, Hunting" : { "img":"bestiaries/animals/hunting-spider_001.actor.webp", "token":"bestiaries/animals/hunting-spider_001.token.webp"},  
     
     "Wolf" : { "img":"bestiaries/animals/wolf_001.actor.webp", "token":"bestiaries/animals/wolf_001.token.webp"},    
+
+    "BESTIARIES, BEASTS" : "*******************************************************************************************************",
+
+    "Gargoyle" : { "img":"bestiaries/beasts/gargoyle_001.actor.webp", "token":"bestiaries/beasts/gargoyle_001.token.webp"},        
+
+    "Hell Hound" : { "img":"bestiaries/beasts/hellhound_001.actor.webp", "token":"bestiaries/beasts/hellhound_001.token.webp"},    
 
     "BESTIARIES CONSTRUCTS" : "********************************************************************************************",
 
@@ -35,6 +54,10 @@ export const HelyxPFResources ={
     "Homunculus, Candle" : { "img":"bestiaries/constructs/homunculus_001.actor.webp", "token":"bestiaries/constructs/homunculus_001.token.webp"},
 
     "Taxidermic Dog" : { "img":"bestiaries/constructs/taxidermic-dog_001.actor.webp", "token":"bestiaries/constructs/taxidermic-dog_001.token.webp"},    
+
+    "BESTIARIES DEMONS" : "**************************************************************************************",     
+
+    "Dretch" : { "img":"bestiaries/demons/dretch_001.actor.webp", "token":"bestiaries/demons/dretch_001.token.webp"},      
 
     "BESTIARIES DRAGONS" : "*********************************************************************************************",  
 
@@ -59,12 +82,25 @@ export const HelyxPFResources ={
     "Swarm, Bats" : { "img":"bestiaries/swarms/bat-swarm_001.actor.webp", "token":"bestiaries/swarms/bat-swarm_001.token.webp"},     
     
     "BESTIARIES UNDEADS" : "**************************************************************************************", 
+
+    "Festrog" :  { "img":"bestiaries/undeads/festrog_001.actor.webp", "token":"bestiaries/undeads/festrog_001.token.webp"},     
     
-    "Ghoul" :  { "img":"bestiaries/undeads/ghoul_001.actor.webp", "token":"bestiaries/undeads/ghoul_001.token.webp"},      
+    "Ghast" :  { "img":"bestiaries/undeads/ghast_002.actor.webp", "token":"bestiaries/undeads/ghast_002.token.webp"},       
+    "Ghoul" :  { "img":"bestiaries/undeads/ghoul_001.actor.webp", "token":"bestiaries/undeads/ghoul_001.token.webp"},   
+
+    "Mummy" :  { "img":"bestiaries/undeads/mummy_001.actor.webp", "token":"bestiaries/undeads/mummy_001.token.webp"},         
+    
+    "Revenant" :  { "img":"bestiaries/undeads/revenant_001.actor.webp", "token":"bestiaries/undeads/revenant_001.token.webp"},     
 
     "Shadow" :  { "img":"bestiaries/undeads/shadow_002.actor.webp", "token":"bestiaries/undeads/shadow_002.token.webp"},   
     "Shadow, Huge" :  { "img":"bestiaries/undeads/shadow_001.actor.webp", "token":"bestiaries/undeads/shadow_001.token.webp"},
+    "Skeleton, Bloody" : { "img":"bestiaries/undeads/bloody-skeleton_001.actor.webp", "token":"bestiaries/undeads/bloody-skeleton_001.token.webp"},     
     "Skeleton, Guard" : { "img":"bestiaries/undeads/skeleton-guard_001.actor.webp", "token":"bestiaries/undeads/skeleton-guard_001.token.webp"},      
+    "Spectre" :  { "img":"bestiaries/undeads/spectre_001.actor.webp", "token":"bestiaries/undeads/spectre_001.token.webp"},         
+
+    "Zombie, Giant" : { "img":"bestiaries/undeads/giant-zombie_001.actor.webp", "token":"bestiaries/undeads/giant-zombie_001.token.webp"},     
+    "Zombie, Owlbear" : { "img":"bestiaries/undeads/zombie-owlbear_001.actor.webp", "token":"bestiaries/undeads/zombie-owlbear_001.token.webp"},         
+    "Zombie, Shambler Troop" : { "img":"bestiaries/undeads/shambler-troop_001.actor.webp", "token":"bestiaries/undeads/shambler-troop_001.token.webp"},      
     
     "NPCs HUMANS" : "*********************************************************************************************",      
 
