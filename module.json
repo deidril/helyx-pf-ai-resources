@@ -1,0 +1,29 @@
+{
+    "id"            : "helyx-pf-ai-resources",
+    "title"         : "Helyx AI content for Pathfinder pdf imports",
+    "description"   : "AI generated tokens and artwork for Pathfinder to complete imports in PF1 and PF2 import modules",
+    "authors"       : [  { "name": "Deidril", "url": "https://github.com/deidril", "flags": {} }  ],
+    "version"       : "7.01",
+    "compatibility" : { "minimum": "14", "verified": "14", "maximum": "14.999" },
+
+    "relationships": 
+    {
+        "systems": 
+        [
+          { "id": "sfrpg", "type": "system", "compatibility": { "minimum": "14.0.1", "verified": "14.0.1" } },
+          { "id": "sf2e",  "type": "system", "compatibility": { "minimum": "1.4.0", "verified": "1.4.0" } } ,   
+          { "id": "pf1",   "type": "system", "compatibility": { "minimum": "11.9", "maximum": "11.99", "verified": "11.11" } },
+          { "id": "pf2e", "type": "system", "compatibility": { "minimum": "8.0.0", "verified": "8.2.0" } }             
+        ]
+    },
+    "scripts"  : [ ],
+    "styles"   : [ ],
+    "esmodules": [ "init.js" ],
+    "packs"    : [ ],
+    "packFolders": [ ],
+    "flags": { },
+
+    "url": "https://github.com/deidril/helyx-pf-ai-resources",
+    "manifest": "https://raw.githubusercontent.com/deidril/helyx-pf-ai-resources/refs/heads/master/module.json",
+    "download": "https://github.com/deidril/helyx-pf-ai-resources/releases/download/7.01/helyx-pf-ai-resources-7.01.zip"    
+}
