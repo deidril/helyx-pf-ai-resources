@@ -18,6 +18,7 @@ export const HelyxPFResources ={
     "Bear" : { "img":"bestiaries/animals/bear_001.actor.webp", "token":"bestiaries/animals/bear_001.token.webp"},  
     "Beetle, Flash" : { "img":"bestiaries/animals/flash-beetle_001.actor.webp", "token":"bestiaries/animals/flash-beetle_001.token.webp"},
     "Beetle, Giant Stag" : { "img":"bestiaries/animals/giant-stag-beetle_001.actor.webp", "token":"bestiaries/animals/giant-stag-beetle-beetle_001.token.webp"},    
+    "Beetle, Bombardier" : { "img":"bestiaries/animals/giant-bombardier-beetle_001.actor.webp", "token":"bestiaries/animals/giant-bombardier-beetle_001.token.webp"},
     "Bloodseeker" : { "img":"bestiaries/animals/bloodseeker_001.actor.webp", "token":"bestiaries/animals/bloodseeker_001.token.webp"},
 
     "Crocodile" : { "img":"bestiaries/animals/crocodile_001.actor.webp", "token":"bestiaries/animals/crocodile_001.token.webp"},
@@ -151,11 +152,15 @@ export const HelyxPFResources ={
     "Kobold Kennel Master" : { "img":"npcs/kobolds/kobold-kennel-master_001.actor.webp", "token":"npcs/kobolds/kobold-kennel-master_001.token.webp"},  
     "Kobold Mage" : { "img":"npcs/kobolds/kobold-mage_001.actor.webp", "token":"npcs/kobolds/kobold-mage_001.token.webp"},                
     "Kobold Scout" : { "img":"npcs/kobolds/kobold-scout_001.actor.webp", "token":"npcs/kobolds/kobold-scout_001.token.webp"},  
-    "Kobold Warrior" : { "img":"npcs/kobolds/kobold-warrior_001.actor.webp", "token":"npcs/kobolds/kobold-warrior_001.token.webp"},          
+    "Kobold Warrior" : { "img":"npcs/kobolds/kobold-warrior_001.actor.webp", "token":"npcs/kobolds/kobold-warrior_001.token.webp"}, 
+    
+    "NPCs ORCS" : "*********************************************************************************************",      
+ 
+    "Orc Brute" : { "img":"npcs/orcs/brute-orc_001.actor.webp", "token":"npcs/orcs/brute-orc_001.token.webp"},        
 
     "NPCs RAKSHASAS" : "*********************************************************************************************",      
  
-    "Rakshasa" : { "img":"npcs/rakshasas/rakshasa_001.actor.webp", "token":"npcs/kobolds/rakshasa_001_001.token.webp"},    
+    "Rakshasa" : { "img":"npcs/rakshasas/rakshasa_001.actor.webp", "token":"npcs/rakshasas/rakshasa_001_001.token.webp"},    
  
     "OTHERS, RUNES" : "*********************************************************************************************",      
 
