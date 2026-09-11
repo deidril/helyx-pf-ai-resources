@@ -21,6 +21,7 @@ export const HelyxPFResources ={
     "Beetle, Bombardier" : { "img":"bestiaries/animals/giant-bombardier-beetle_001.actor.webp", "token":"bestiaries/animals/giant-bombardier-beetle_001.token.webp"},
     "Bloodseeker" : { "img":"bestiaries/animals/bloodseeker_001.actor.webp", "token":"bestiaries/animals/bloodseeker_001.token.webp"},
 
+
     "Crocodile" : { "img":"bestiaries/animals/crocodile_001.actor.webp", "token":"bestiaries/animals/crocodile_001.token.webp"},
 
     "Frog, Giant" : { "img":"bestiaries/animals/giant-frog_001.actor.webp", "token":"bestiaries/animals/giant-frog_001.token.webp"}, 
@@ -32,6 +33,9 @@ export const HelyxPFResources ={
     "Mice" : { "img":"bestiaries/animals/mice_001.actor.webp", "token":"bestiaries/animals/mice_001.token.webp"},    
 
     "Rat, Giant" : { "img":"bestiaries/animals/giant-rat_001.actor.webp", "token":"bestiaries/animals/giant-rat_001.token.webp"},    
+
+    "Scorpion, Cave" : { "img":"bestiaries/animals/cave-scorpion_001.actor.webp", "token":"bestiaries/animals/cave-scorpion_001.token.webp"},
+    "Scorpion, Giant" : { "img":"bestiaries/animals/giant-scorpion_001.actor.webp", "token":"bestiaries/animals/giant-scorpion_001.token.webp"},
 
     "Slurk" : { "img":"bestiaries/animals/slurk_001.actor.webp", "token":"bestiaries/animals/slurk_001.token.webp"},    
 
@@ -108,6 +112,8 @@ export const HelyxPFResources ={
     
     "BESTIARIES UNDEADS" : "**************************************************************************************", 
 
+    "Draugr" :  { "img":"bestiaries/undeads/draugr_001.actor.webp", "token":"bestiaries/undeads/draugr_001.token.webp"},
+
     "Festrog" :  { "img":"bestiaries/undeads/festrog_001.actor.webp", "token":"bestiaries/undeads/festrog_001.token.webp"},     
     
     "Ghast" :  { "img":"bestiaries/undeads/ghast_002.actor.webp", "token":"bestiaries/undeads/ghast_002.token.webp"},       
@@ -122,6 +128,8 @@ export const HelyxPFResources ={
 
     "Shadow" :  { "img":"bestiaries/undeads/shadow_002.actor.webp", "token":"bestiaries/undeads/shadow_002.token.webp"},   
     "Shadow, Huge" :  { "img":"bestiaries/undeads/shadow_001.actor.webp", "token":"bestiaries/undeads/shadow_001.token.webp"},
+    "Skeletal Horse" :  { "img":"bestiaries/undeads/skeletal-horse_001.actor.webp", "token":"bestiaries/undeads/skeletal-horse_001.token.webp"},
+    "Skeletal Wolf" :  { "img":"bestiaries/undeads/skeletal-wolf_001.actor.webp", "token":"bestiaries/undeads/skeletal-wolf_001.token.webp"},
     "Skeleton, Bloody" : { "img":"bestiaries/undeads/bloody-skeleton_001.actor.webp", "token":"bestiaries/undeads/bloody-skeleton_001.token.webp"},     
     "Skeleton, Guard" : { "img":"bestiaries/undeads/skeleton-guard_001.actor.webp", "token":"bestiaries/undeads/skeleton-guard_001.token.webp"},      
     "Spectre" :  { "img":"bestiaries/undeads/spectre_001.actor.webp", "token":"bestiaries/undeads/spectre_001.token.webp"},      
@@ -134,16 +142,30 @@ export const HelyxPFResources ={
 
     "Zombie, Giant" : { "img":"bestiaries/undeads/giant-zombie_001.actor.webp", "token":"bestiaries/undeads/giant-zombie_001.token.webp"},     
     "Zombie, Owlbear" : { "img":"bestiaries/undeads/zombie-owlbear_001.actor.webp", "token":"bestiaries/undeads/zombie-owlbear_001.token.webp"},         
-    "Zombie, Priest" : { "img":"bestiaries/undeads/zombie-priest_001.actor.webp", "token":"bestiaries/undeads/zombie-priest_001.token.webp"},         
+    "Zombie, Priest" : { "img":"bestiaries/undeads/zombie-priest_001.actor.webp", "token":"bestiaries/undeads/zombie-priest_001.token.webp"},        
+    "Zombie, Shambler" : { "img":"bestiaries/undeads/zombie-shambler_001.actor.webp", "token":"bestiaries/undeads/zombie-shambler_001.token.webp"},   
     "Zombie, Shambler Troop" : { "img":"bestiaries/undeads/shambler-troop_001.actor.webp", "token":"bestiaries/undeads/shambler-troop_001.token.webp"},      
+
+    "HAZARDS" : "*********************************************************************************************",       
+
+    "Hazard, Broken Promise" : { "img":"hazards/broken-promise.actor.webp", "token":"hazards/broken-promise.token.webp" },
+    "Hazard, Quicksand" : { "img":"hazards/quicksand.webp", "token":"hazards/quicksand.webp" },
     
     "NPCs HUMANS" : "*********************************************************************************************",      
 
+    "Human Bandit 1" : { "img":"npcs/humans/human-bandit_001.actor.webp", "token":"npcs/humans/human-bandit_001.token.webp"},
+    "Human Bandit 2" : { "img":"npcs/humans/human-bandit_002.actor.webp", "token":"npcs/humans/human-bandit_002.token.webp"},
+    "Human Dancer" : { "img":"npcs/humans/human-dancer_001.actor.webp", "token":"npcs/humans/human-dancer_001.token.webp"},
     "Human, Dark Acolyte" : { "img":"npcs/humans/human-dark-acolyte_001.actor.webp", "token":"npcs/humans/human-dark-acolyte_001.token.webp"},      
     "Human, Dark Priest" : { "img":"npcs/humans/human-dark-priest_001.actor.webp", "token":"npcs/humans/human-dark-priest_001.token.webp"},
     "Human, Dancer" : { "img":"npcs/humans/human-dancer_001.actor.webp", "token":"npcs/humans/human-dancer_001.token.webp"},
     "Human Guard" : { "img":"npcs/humans/human-guard_001.actor.webp", "token":"npcs/humans/human-guard_001.token.webp"},
     "Human Hunter" : { "img":"npcs/humans/human-hunter_001.actor.webp", "token":"npcs/humans/human-hunter_001.token.webp"},
+    "Human, Magician 1" : { "img":"npcs/humans/human-magician_001.actor.webp", "token":"npcs/humans/human-magician_001.token.webp"},    
+    "Human, Magician 2" : { "img":"npcs/humans/human-magician_002.actor.webp", "token":"npcs/humans/human-magician_002.token.webp"},   
+    "Human Server" : { "img":"npcs/humans/human-server_001.actor.webp", "token":"npcs/humans/human-server_001.token.webp"},
+    "Human, Tian Cook 1" : { "img":"npcs/humans/human-tian-cook_001.actor.webp", "token":"npcs/humans/human-tian-cook_001.token.webp"},
+    "Human, Tian Cook 2" : { "img":"npcs/humans/human-tian-cook_002.actor.webp", "token":"npcs/humans/human-tian-cook_002.token.webp"},    
 
     "NPCs KOBOLDS" : "*********************************************************************************************",      
 
